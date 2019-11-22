@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/ae92b6ec-01ff-425d-976a-1f074418a451/resourceGroups/GrupoRecursosNodeJS/providers/Microsoft.Web/sites/Node-ERP-MSD"
+}
