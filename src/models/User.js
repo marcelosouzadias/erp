@@ -25,4 +25,4 @@ const UserSchema = new mongoose.Schema({
 });
 
 UserSchema.plugin(mongoosePaginate);
-mongoose.model('User', UserSchema);
+mongoose.model('tb_usuario', UserSchema);
